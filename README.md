@@ -1,5 +1,5 @@
-# Hi i'm Mahbub Hussain 👋
-mahbubhussain12/mahbubhussain12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Mahbub Hussain 👋
+A passionate Frontend focused Web Developer from Bangladesh Bangladesh
 
 Here are some ideas to get you started:
 
